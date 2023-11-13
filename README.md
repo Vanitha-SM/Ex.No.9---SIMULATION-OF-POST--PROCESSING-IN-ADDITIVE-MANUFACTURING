@@ -3,33 +3,34 @@
 ### DATE: 
 
 ## AIM: 
-### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
+To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
 ## REQUIREMENTS:
-### System - Windows 7 or higher, 1 GB RAM.
+ System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 
-## Procedure for support removal
-### 1.	Select support removal from the list.
-### 2.	All the parts related to support removal are shown on the screen.
-### 3.	Select the parts in sequence in which they are shown.
-### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+Procedure for support removal
+ 1.	Select support removal from the list.
+ 2.	All the parts related to support removal are shown on the screen.
+ 3.	Select the parts in sequence in which they are shown.
+ 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+ 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## Procedure for UV Curing
-### 1.	Select UV curing from the list.
-### 2.	All the parts related to UV curing are shown on the screen.
-### 3.	Select the parts in sequence in which they are shown.
-### 4.	When the first part will be selected then it will open in the blank space on the left side of the screen.
-### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+
+ 1.	Select UV curing from the list.
+ 2.	All the parts related to UV curing are shown on the screen.
+ 3.	Select the parts in sequence in which they are shown.
+ 4.	When the first part will be selected then it will open in the blank space on the left side of the screen.
+ 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## Procedure for heat treatment
-### 1.	Select heat treatment from the list.
-### 2.	All the parts related to heat treatment are shown on the screen.
-### 3.	Select the parts in sequence in which they are shown.
-### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+ 1.	Select heat treatment from the list.
+ 2.	All the parts related to heat treatment are shown on the screen.
+ 3.	Select the parts in sequence in which they are shown.
+ 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+ 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
 
@@ -49,10 +50,9 @@
 ![image](https://github.com/Vanitha-SM/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119557985/2bc796ec-a837-4b95-93c0-079093fcc9a3)
 ![image](https://github.com/Vanitha-SM/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119557985/969cc5e8-70cd-4a8e-a566-14279fe689b5)
 ![image](https://github.com/Vanitha-SM/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119557985/4a147fad-889d-4184-aab9-33fe10c78a5f)
-
-
-### Name: Vanitha S
-### Register Number: 212222100057
-
+```
+ Name: Vanitha S
+ Register Number: 212222100057
+```
 ## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+ Thus the simulation on the Postprocessing in additive manufacturing is completed.
